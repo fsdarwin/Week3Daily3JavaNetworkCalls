@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week3Daily3JavaNetworkCalls</string>
+    <string name="empty_string" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="return_to_list">Return to List</string>
+</resources>
